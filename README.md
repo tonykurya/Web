@@ -1,1 +1,1 @@
-# Web
+# Minimal HTML/CSS UI
